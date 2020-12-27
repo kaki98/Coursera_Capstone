@@ -1,4 +1,4 @@
-# Coursera_Capstone (THe Battle of the Neighbourhoods)
+# Coursera_Capstone (The Battle of the Neighbourhoods)
 
 Problem and Background
 
